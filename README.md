@@ -6,9 +6,9 @@
 We have released the following assets for **all 5 languages TN dataset of MZS-TND**:
 
 
-|                       | Link                                            | Password |
-| --------------------- | ----------------------------------------------- | -------- |
-| **MZS-TND** | https:// |      |
+|                       | Link                                            |
+| --------------------- | ----------------------------------------------- |
+| **MZS-TND** | (https://drive.google.com/drive/folders/1F8S-Gf4rNJUJd6Sl57VJO5DdouoMU3Ki?usp=drive_link) |      |
 
 |                       | Link                                            |
 | --------------------- | ----------------------------------------------- |
